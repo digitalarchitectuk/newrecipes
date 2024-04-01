@@ -3,7 +3,7 @@
     "Name": "Chicken Biryani",
     "Location": "India",
     "Details": "A classic Indian dish made with chicken, basmati rice, and a blend of aromatic spices, served hot with raita or salad. Duration: 1 hour.",
-    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/butterchicken.jpg?raw=true",
+    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/chickenbiryani.jpg?raw=true",
     "Ingredients": [
       "2 cups basmati rice",
       "500g chicken, cut into pieces",
@@ -27,7 +27,7 @@
     "Name": "Paneer Tikka Masala",
     "Location": "India",
     "Details": "A popular Indian vegetarian dish where paneer (Indian cottage cheese) and vegetables are marinated, grilled, and then served in a spiced tomato gravy. Duration: 45 minutes.",
-    "Image": "https://raw.githubusercontent.com/your-repository/newrecipes/main/paneertikkamasala.jpg",
+    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/paneertikkamasala.jpg?raw=true",
     "Ingredients": [
       "250g paneer, cubed",
       "1 bell pepper, diced",
@@ -50,7 +50,7 @@
     "Name": "Butter Chicken",
     "Location": "India",
     "Details": "Originating from Delhi, India, this dish is made with marinated chicken that's first grilled and then served in a creamy tomato-based sauce. Duration: 1 hour.",
-    "Image": "https://raw.githubusercontent.com/your-repository/newrecipes/main/butterchicken.jpg",
+    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/butterchicken.jpg?raw=true",
     "Ingredients": [
       "500g chicken, cut into pieces",
       "1 onion, finely chopped",
@@ -72,7 +72,7 @@
     "Name": "Vegetable Biryani",
     "Location": "India",
     "Details": "A flavorful Indian rice dish made with basmati rice, mixed vegetables, and a variety of spices, garnished with fried onions. Duration: 1 hour.",
-    "Image": "https://raw.githubusercontent.com/your-repository/newrecipes/main/vegbiryani.jpg",
+    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/vegbiryani.jpg?raw=true",
     "Ingredients": [
       "2 cups basmati rice",
       "1 onion, thinly sliced",
