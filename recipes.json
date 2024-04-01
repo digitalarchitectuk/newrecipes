@@ -3,7 +3,7 @@
     "Name": "Chicken Biryani",
     "Location": "India",
     "Details": "A classic Indian dish made with chicken, basmati rice, and a blend of aromatic spices, served hot with raita or salad. Duration: 1 hour.",
-    "Image": "https://github.com/digitalarchitectuk/newrecipes/blob/main/chickenbiryani.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/your-repository/newrecipes/main/chickenbiryani.jpg",
     "Ingredients": [
       "2 cups basmati rice",
       "500g chicken, cut into pieces",
